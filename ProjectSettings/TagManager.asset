@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Chao
+  - Premio
+  - "Im\xE3"
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Arquibancada
+  - Medio
+  - Fundo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fundao
+    uniqueID: 765323771
+    locked: 0
+  - name: medio
+    uniqueID: 3098268753
+    locked: 0
+  - name: frente
+    uniqueID: 1580119523
+    locked: 0
+  - name: Chao
+    uniqueID: 3784525095
+    locked: 0
+  - name: prmio
+    uniqueID: 123658793
+    locked: 0
